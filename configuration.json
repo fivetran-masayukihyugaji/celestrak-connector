@@ -1,0 +1,6 @@
+{
+  "gp_groups": "stations,active",
+  "satcat_groups": "stations,active",
+  "supgp_files": "starlink,oneweb",
+  "min_fetch_interval_hours": "2"
+}

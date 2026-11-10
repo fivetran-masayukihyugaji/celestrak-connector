@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Fivetran Connector SDK local debug output (warehouse.db, state.json) and crash reports
+files/
+crash-reports/
+warehouse.db
+
+# Editor settings (contain machine-specific absolute paths)
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Local secrets / deployment settings
+.env
+options.toml
